@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\AWS Practice\\aws-projects"
+		},
+		{
+			"path": "..\\..\\Python practice"
+		},
+		{
+			"path": "..\\..\\Ansible Handson"
+		},
+		{
+			"path": "..\\..\\Terraform"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\User1\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+	}
+}
